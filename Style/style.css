@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#container {
+    background-color: red;
+    width: 200px;
+}
+.klasse {
+    background-color: blue;
+    border: 3px dotted black;   
+}
+.buttons {
+    color: lightblue;
+    background-color: gray;
+    border: none;
+}
